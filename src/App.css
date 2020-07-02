@@ -9,9 +9,14 @@
 
 .search{
   margin-bottom: 20px;
+  border: black;
+  border-width: 2px;
 }
 
-
+button{
+  background-color: rgba(49, 49, 49, 0.664);
+  color: white;
+}
 
 
 
